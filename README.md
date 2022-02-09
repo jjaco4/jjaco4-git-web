@@ -1,2 +1,1 @@
-# jjaco4-git-web
-# jjaco4-git-web
+This project is to test the Git web pages
